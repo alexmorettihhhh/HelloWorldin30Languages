@@ -53,5 +53,5 @@
 
 1. Скачайте или клонируйте репозиторий:
    ```bash
-   git clone https://github.com/alexmorettihhhh/privet-mir.git
-   cd privet-mir
+   https://github.com/alexmorettihhhh/HelloWorldin30Languages.git
+   cd HelloWorldin30Language
